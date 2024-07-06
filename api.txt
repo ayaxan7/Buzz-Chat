@@ -1,0 +1,3 @@
+sk-proj-e9VBcBpHNWJC5M1zmhGtT3BlbkFJLBd8DDFgTJ7naiu642wo
+
+set OPENAI_API_KEY='sk-proj-e9VBcBpHNWJC5M1zmhGtT3BlbkFJLBd8DDFgTJ7naiu642wo'
